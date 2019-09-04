@@ -1,3 +1,13 @@
+# Dream Catcher
+
+An AIY Vision Kit powered psychotherapy algorithm using a combination of dialectical behavioral therapy via machine learning, as well as visualization via deep fakes. 
+
+
+
+
+
+
+
 # AIY Projects
 
 ## Overview
